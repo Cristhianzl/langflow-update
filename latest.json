@@ -4,7 +4,7 @@
   "pub_date": "2024-03-21T12:00:00Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdTJJajRIb2FvVVVSZ2NTS05OeDRsbDhwMzcxQ0pEaGttOU9JbVdiUEZPUFI1UEtILzhQZ213bDNwUGRCUHJkUDhsK1RTR0xmZ0JLZCtvM0NDVThuSWFWb1FaeDQzQ0FRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ2NzQyMzM4CWZpbGU6TGFuZ2Zsb3dfMS40LjFfYWFyY2g2NC5kbWcKTkg4S091amVucHJWcjVXSCszOHM0endlQjQ3UzFDcG5oSUkvMnN5aDA4SXEwMEF1Q1FPcE1pNVlKRXhyR3RBSjI0aDdkeVRMWDRvUUw5WnVNcUxOQ3c9PQo=",
+      "signature": "RUTM+3cuyfQt5PppNBoz2kgiICb/0eISuZ/xENOgSMiWEDSecioGKe7UsviQg10XhTmH76SXGHRszTCoWnj4Dsoo0kvwjboFPQc=",
       "url": "https://raw.githubusercontent.com/Cristhianzl/langflow-update/main/langflow-upgrade/releases/v1.4.1/macOS/Langflow_1.4.1_aarch64.dmg"
     }
   }
