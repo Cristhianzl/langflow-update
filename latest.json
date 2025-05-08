@@ -5,7 +5,7 @@
   "platforms": {
     "darwin-aarch64": {
       "signature": "untrusted comment: signature from minisign secret key\nRURFP7Qm8fYfoLf1TUq2lcJd97wfYb6K1MoWozC4TAu7zeHOjG35Lv28UtQo5JBW7JpXuCAkpBQ2gOHgwW2YPU4FTG6CdiYGEQM=\ntrusted comment: timestamp:1746727726\tfile:Langflow_1.4.1_aarch64.dmg\thashed\npPUUAiMrwqv9lQdAehnP5pPJ4XT5s4DJz+YFXnxMdWxbM6P4+L5nGSCqXGpKjVKcK5ifgPgve7r7Op2eX98qAA==",
-      "url": "https://github.com/Cristhianzl/langflow-update/releases/download/v1.4.1/Langflow_1.4.1_aarch64.dmg"
+      "url": "https://raw.githubusercontent.com/Cristhianzl/langflow-update/main/langflow-upgrade/releases/v1.4.1/macOS/Langflow_1.4.1_aarch64.dmg"
     }
   }
 }
